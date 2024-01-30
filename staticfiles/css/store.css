@@ -1,0 +1,13 @@
+/* Custom CSS to adjust form alignment in the navbar */
+.navbar-nav {
+    margin-right: auto; /* Align form to the right */
+}
+
+.navbar-form {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-form .form-inline {
+    margin-right: 10px; /* Adjust the margin as needed */
+}
